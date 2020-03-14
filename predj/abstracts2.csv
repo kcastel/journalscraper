@@ -1,0 +1,19 @@
+abstract,author,title,year
+"As network attacks have increased in number and severity over the past few years, intrusion detection system (IDS) is increasingly becoming a critical component to secure the network. Due to large volumes of security audit data as well as complex and dynamic properties of intrusion behaviors, optimizing performance of IDS becomes an important open problem that is receiving more and more attention from the research community. Intrusion poses a serious security risk in a network environment. The ever growing new intrusion types pose a serious problem for their detection. In this paper, a new intrusion detection method based on Principle Component Analysis (PCA) and Random Forest with low overhead and high efficiency is presented. System call data and command sequences data are used as information sources to validate the proposed method. The frequencies of individual system calls in a trace and individual commands in a data block are computed and then data column vectors which represent the traces and blocks of the data are formed as data input. PCA is applied to reduce the high dimensional data vectors and distance between a vector and its projection onto the subspace reduced is used for anomaly detection. Experimental results show that the proposed method is promising in terms of detection accuracy, computational expense and implementation for real-time intrusion detection.","Fiona Lowden Lawrence, Sanjay Kumar Sharma, Mahendra Singh Sisodia",Network Intrusion detection by using Feature Reduction Technique,"Home,Vol 1, No 1 (2012),Lawrence"
+"In communication networks, congestion occurs when a link or node is carrying data beyond its capacity limits and hence its quality of service (QoS) deteriorates. Typical effects of congestion include queuing delay, packet loss (loss of information) or the blocking of new connections. Congestion needs to be controlled to ensure the QoS and also to increase efficiency of the system in order to survive the ever growing competition of service providers in market today. In order to evaluate the QoS it is essential to measure the performance of network in terms of throughput, efficiency, delay, packet dropping probability etc. These parameters are influenced by variations in the network parameters like packet size, packet interval and link capacity. To implement congestion control early detection of packet drop or monitoring link buffer would help avoid congestion. The concentration of this paper is around network parameters, how they affect system performance and how these results can help avoid congestion scenario.","Banshri Raichana, Sangeeeta Kulkarni",Performance measurement of computer networks to improve congestion control,"Home,Vol 1, No 1 (2012),Raichana"
+,"Mahendra Singh Sisodia, Sanjay Kumar Sharma, Pankaj Pandey",Anomaly Based Network Intrusion Detection by using Data Mining,"Home,Vol 1, No 1 (2012),Sisodia"
+,"Mohan Banerjee, Roopali Soni",A Framework for Heterogeneous Component Composition with Automatic Instantiation Environment: A Survey Paper,"Home,Vol 1, No 1 (2012),Banerjee"
+,"Dilip Kumar Ahirwar, Sumit Kumar Saxena, M. S. Sisodia",Anomaly Detection by Naive Bayes & RBF Network,"Home,Vol 1, No 1 (2012),Ahirwar"
+,,,
+,"Soumya Paul, Inadyuti Dutt",A Novel Approach for Light Trail Minimization Using Genetic Algorithm in Optical Networks,"Home,Vol 1, No 1 (2012),Paul"
+,"Meenakshi Patel, Sanjay Kumar Sharma",Detection and prevention of Routing Attacks in MANET using AODV,"Home,Vol 1, No 1 (2012),Patel"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
